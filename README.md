@@ -1,3 +1,1 @@
-# hello-world
-Test Repository
-This is a test repo
+Implementation of Relational database management system (RDBMS) made the Purchase Orders, Manufacturing, Invoicing, Delivery and Payments easy in Steel Manufacturing Company.
